@@ -1,0 +1,1 @@
+mcc -W cpplib:myDispDemo -T link:lib myDispDemo;
